@@ -1,4 +1,3 @@
-#Coffee Machine
 A simple console app that is a coffee-machine simulator. Done within the Hyperskill.org course.
 
 ## Table of contents
