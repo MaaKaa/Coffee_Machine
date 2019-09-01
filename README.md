@@ -31,6 +31,7 @@ The program shows a Main Menu. Then, it reads one line from standard input, whic
 * „exit” - quits the program.
 
 If the user writes "buy" then he must choose one of three varieties of coffee that the coffee machine can make: espresso, latte, or cappuccino.
+
     • For the espresso, the coffee machine needs 250 ml of water and 16 g of coffee beans. It costs $4. 
     • For the latte, the coffee machine needs 350 ml of water, 75 ml of milk, and 20 g of coffee beans. It costs $7. 
     • And for the cappuccino, the coffee machine needs 200 ml of water, 100 ml of milk, and 12 g of coffee. It costs $6. 
